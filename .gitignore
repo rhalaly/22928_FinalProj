@@ -1,0 +1,5 @@
+Data/Raw
+**/__pycache__
+output/snapshots
+output/images
+**/*.pkl
